@@ -1,0 +1,30 @@
+pt:
+  intro_message: This is your happy pet! It will support you every day!
+  start_message: Let's start! Imagine, who am I? Cat or Dog?
+  pet_choice_done_message: Yes! You are right. Now let's wait few seconds and you will see me
+  choose_img_message: This is me and two my siblings. Guess who is me! You can't
+    change your choice later
+  name_pet_message: Yes, you are right! This is me! But what is my name?
+  describe_pet_message: Right again! This is exactly my name. Do you know
+    something about my character? Start with 'You are ...'
+  ready_to_chat_message: Now we all set. Let's chat! How is it going? 
+    Please, don't forget, I'm just a pet and I can't remember context for now
+  help_message: I am bot
+  cat: Cat
+  dog: Dog
+  choose_image_button: It's me!
+  wrong_input_image_choice: Please press button under the photo
+  image_1_button: Photo 1
+  image_2_button: Photo 2
+  image_3_button: Photo 3
+  wrong_name_message: Please, write my name
+  wrong_character_message: Please, write my character
+  hear_you_message: I hear you!
+  wrong_input_message: I don't understand you. Please, write /help to see what I can do'
+  open_ai_system_prompt:
+    "You are a talking {pet_type}. Act like a real {pet_type}. Don't say you're not a {pet_type}.
+    Your job is to help your owner with a kind word, to cheer him up or calm him down in any situation.
+    Your name is {pet_name}. Don't address your owner by his name. Don't ask his name.
+    {pet_character}
+    Answer the following text from your owner:"
+  open_ai_error_message: null                        

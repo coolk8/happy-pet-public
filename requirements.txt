@@ -1,0 +1,12 @@
+aiogram==3.0.0b7
+requests
+python-dotenv
+environs
+redis
+openai
+tornado
+motor
+aiofiles
+aiohttp
+pyi18n-v2
+backoff
